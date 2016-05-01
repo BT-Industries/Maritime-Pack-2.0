@@ -18,5 +18,34 @@ The ocean is your frontier and to conquer it you only need imagination... and th
 		ResourceName = BallastWater
 		flowRate = 5.0
 	}
+	
+	//Required:
+	
+	RESOURCE
+	{
+		name = BallastWater
+		amount = 0
+		maxAmount = 60 //can be any amount
+	}
+	
+```
+2. propultionIntake - Takes in IntakeLqd to power the clipper engines.  This will keep IntakeLqd at its maximum amount.
+
+```
+	MODULE
+	{
+		name = propultionIntake
+		ResourceName = IntakeLqd
+	}
+	
+	//Required:
+	
+	RESOURCE
+	{
+		name = BallastWater
+		amount = 2
+		maxAmount = 2 //can be any amount
+	}
+	
 ```
 	
