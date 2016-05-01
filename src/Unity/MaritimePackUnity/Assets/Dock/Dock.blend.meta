@@ -11,24 +11,29 @@ ModelImporter:
     100006: Cube_001
     100008: //RootNode
     100010: Cube_002
+    100012: Cube_003
     400000: Clipper_Flat_Hull_Retexture_2
     400002: Clipper_Hull_Clipper_Hull_auv
     400004: Cube
     400006: Cube_001
     400008: //RootNode
     400010: Cube_002
+    400012: Cube_003
     2300000: Clipper_Hull_Clipper_Hull_auv
     2300002: Cube
     2300004: Cube_001
     2300006: Cube_002
+    2300008: Cube_003
     3300000: Clipper_Hull_Clipper_Hull_auv
     3300002: Cube
     3300004: Cube_001
     3300006: Cube_002
+    3300008: Cube_003
     4300000: Cube_001
     4300002: Cube
     4300004: Clipper_Hull_Clipper_Hull_auv
     4300006: Cube_002
+    4300008: Cube_003
     7400000: Default Take
     9500000: //RootNode
   materials:
