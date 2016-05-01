@@ -9,11 +9,11 @@ The ocean is your frontier and to conquer it you only need imagination... and th
 
 Modules
 
-MODULE
+`	MODULE
 	{
 		name = intakeWater
 		ResourceName = BallastWater
 		flowRate = 5.0
 	}
-	
+	`
 	
