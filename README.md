@@ -34,7 +34,7 @@ The ocean is your frontier and to conquer it you only need imagination... and th
 ```
 	MODULE
 	{
-		name = propultionIntake
+		name = propulsionIntake
 		ResourceName = IntakeLqd
 	}
 	
