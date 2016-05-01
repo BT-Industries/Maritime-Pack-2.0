@@ -4,7 +4,7 @@ using UnityEngine.UI;
 
 namespace MaritimePackModules
 {
-	public class propultionIntake :PartModule
+	public class propulsionIntake :PartModule
 	{
 
 		[KSPField]
