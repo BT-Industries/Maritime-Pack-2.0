@@ -7,7 +7,7 @@ Paddle-wheel cruise up Kerbin's rivers.  Looking for the ultimate pilot challeng
 
 The ocean is your frontier and to conquer it you only need imagination... and the Maritime Pack 2.0.
 
-Modules
+## Modules
 
 ```
 	MODULE
