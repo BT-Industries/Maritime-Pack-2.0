@@ -12,6 +12,14 @@ ModelImporter:
     100008: //RootNode
     100010: Cube_002
     100012: Cube_003
+    100014: Building
+    100016: Dock
+    100018: Dock1
+    100020: Dock2
+    100022: Dock3
+    100024: Dock4
+    100026: Dock5
+    100028: MainSection
     400000: Clipper_Flat_Hull_Retexture_2
     400002: Clipper_Hull_Clipper_Hull_auv
     400004: Cube
@@ -19,21 +27,53 @@ ModelImporter:
     400008: //RootNode
     400010: Cube_002
     400012: Cube_003
+    400014: Building
+    400016: Dock
+    400018: Dock1
+    400020: Dock2
+    400022: Dock3
+    400024: Dock4
+    400026: Dock5
+    400028: MainSection
     2300000: Clipper_Hull_Clipper_Hull_auv
     2300002: Cube
     2300004: Cube_001
     2300006: Cube_002
     2300008: Cube_003
+    2300010: Building
+    2300012: Dock
+    2300014: Dock1
+    2300016: Dock2
+    2300018: Dock3
+    2300020: Dock4
+    2300022: Dock5
+    2300024: MainSection
     3300000: Clipper_Hull_Clipper_Hull_auv
     3300002: Cube
     3300004: Cube_001
     3300006: Cube_002
     3300008: Cube_003
+    3300010: Building
+    3300012: Dock
+    3300014: Dock1
+    3300016: Dock2
+    3300018: Dock3
+    3300020: Dock4
+    3300022: Dock5
+    3300024: MainSection
     4300000: Cube_001
     4300002: Cube
     4300004: Clipper_Hull_Clipper_Hull_auv
     4300006: Cube_002
     4300008: Cube_003
+    4300010: Building
+    4300012: Dock
+    4300014: MainSection
+    4300016: Dock1
+    4300018: Dock2
+    4300020: Dock3
+    4300022: Dock4
+    4300024: Dock5
     7400000: Default Take
     9500000: //RootNode
   materials:
