@@ -10,7 +10,17 @@ namespace MaritimePackModules
 		[KSPField]
 		public string ResourceName = "";
 
+		[KSPField]
+		public bool fun = false;
+
 		void Update () {
+
+			if (fun) {
+
+				Debug.Log ("The part explodes because there is the value \"fun = true\"");
+				part.explode ();
+
+			}
 
 			var resourceList = part.Resources.list;
 
