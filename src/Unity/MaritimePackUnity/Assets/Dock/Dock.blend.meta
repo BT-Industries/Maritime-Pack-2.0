@@ -20,6 +20,19 @@ ModelImporter:
     100024: Dock4
     100026: Dock5
     100028: MainSection
+    100030: Dock1_001
+    100032: Dock1_002
+    100034: Dock2_001
+    100036: Dock2_002
+    100038: Dock3_001
+    100040: Dock3_002
+    100042: Dock4_001
+    100044: Dock4_002
+    100046: Dock5_001
+    100048: Dock5_002
+    100050: Dock_001
+    100052: Dock_002
+    100054: MainSection_001
     400000: Clipper_Flat_Hull_Retexture_2
     400002: Clipper_Hull_Clipper_Hull_auv
     400004: Cube
@@ -35,6 +48,19 @@ ModelImporter:
     400024: Dock4
     400026: Dock5
     400028: MainSection
+    400030: Dock1_001
+    400032: Dock1_002
+    400034: Dock2_001
+    400036: Dock2_002
+    400038: Dock3_001
+    400040: Dock3_002
+    400042: Dock4_001
+    400044: Dock4_002
+    400046: Dock5_001
+    400048: Dock5_002
+    400050: Dock_001
+    400052: Dock_002
+    400054: MainSection_001
     2300000: Clipper_Hull_Clipper_Hull_auv
     2300002: Cube
     2300004: Cube_001
@@ -48,6 +74,19 @@ ModelImporter:
     2300020: Dock4
     2300022: Dock5
     2300024: MainSection
+    2300026: Dock1_001
+    2300028: Dock1_002
+    2300030: Dock2_001
+    2300032: Dock2_002
+    2300034: Dock3_001
+    2300036: Dock3_002
+    2300038: Dock4_001
+    2300040: Dock4_002
+    2300042: Dock5_001
+    2300044: Dock5_002
+    2300046: Dock_001
+    2300048: Dock_002
+    2300050: MainSection_001
     3300000: Clipper_Hull_Clipper_Hull_auv
     3300002: Cube
     3300004: Cube_001
@@ -61,6 +100,19 @@ ModelImporter:
     3300020: Dock4
     3300022: Dock5
     3300024: MainSection
+    3300026: Dock1_001
+    3300028: Dock1_002
+    3300030: Dock2_001
+    3300032: Dock2_002
+    3300034: Dock3_001
+    3300036: Dock3_002
+    3300038: Dock4_001
+    3300040: Dock4_002
+    3300042: Dock5_001
+    3300044: Dock5_002
+    3300046: Dock_001
+    3300048: Dock_002
+    3300050: MainSection_001
     4300000: Cube_001
     4300002: Cube
     4300004: Clipper_Hull_Clipper_Hull_auv
@@ -74,6 +126,19 @@ ModelImporter:
     4300020: Dock3
     4300022: Dock4
     4300024: Dock5
+    4300026: Dock5_002
+    4300028: Dock2_002
+    4300030: Dock1_002
+    4300032: Dock_002
+    4300034: Dock3_002
+    4300036: Dock4_002
+    4300038: Dock5_001
+    4300040: Dock2_001
+    4300042: Dock1_001
+    4300044: Dock_001
+    4300046: Dock3_001
+    4300048: Dock4_001
+    4300050: MainSection_001
     7400000: Default Take
     9500000: //RootNode
   materials:
